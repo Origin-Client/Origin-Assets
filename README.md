@@ -1,2 +1,2 @@
 # Origin-Assets
-All the assets/images of Origin
+All the assets and branding elements of Origin
